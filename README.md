@@ -37,9 +37,9 @@
 
 ### 🌟 **Top Repositories**  
 #### 🚀 **My Projects**  
-- [🛒 Nike Clone](https://github.com/RITESH-CHAUHAN2005/NIKE-CLONE)  
-- [📦 Amazon Clone](https://github.com/RITESH-CHAUHAN2005/AMAZON-CLONE)  
-- [🎧 Spotify Clone](https://github.com/RITESH-CHAUHAN2005/SPOTIFY-CLONE)  
+- [Dukaan](https://github.com/RITESH-CHAUHAN2005/Dukaan.git)  
+- [Hamylten-Heights](https://github.com/RITESH-CHAUHAN2005/Hamylten-Heights.git)  
+- [MDM Consulting](https://github.com/RITESH-CHAUHAN2005/MDM-Consulting.git)  
 
 ---
 
