@@ -37,9 +37,9 @@
 
 ### 🌟 **Top Repositories**  
 #### 🚀 **My Projects**  
-- [Dukaan](https://github.com/RITESH-CHAUHAN2005/Dukaan.git)  
-- [Hamylten-Heights](https://github.com/RITESH-CHAUHAN2005/Hamylten-Heights.git)  
-- [MDM Consulting](https://github.com/RITESH-CHAUHAN2005/MDM-Consulting.git)  
+- [Dukaan](https://dukaanweb.vercel.app/)  
+- [Hamylten-Heights](https://www.hamylten.com/)  
+- [MDM Consulting](https://mdm-consulting.vercel.app/)  
 
 ---
 
