@@ -1,19 +1,24 @@
-<!-- HEADER -->
+<!-- 🧠 HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Ritesh+Chauhan;Frontend+Developer+%7C+C%2B%2B+%26+DSA+Enthusiast;I+design+cool+UI's+that+actually+work!;Let's+build+something+amazing+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20I'm%20Ritesh%20Chauhan!&fontAlign=center&fontAlignY=40&color=gradient&desc=Frontend%20Developer%20|%20C++%20%26%20DSA%20Enthusiast&descSize=20&descAlignY=60" />
 </div>
+
+<!-- 🖐️ TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Crafting+clean+UI%2C+building+cool+projects!;Frontend+%7C+React+%7C+Tailwind+%7C+Node+Lover;Open+to+Internships+%26+Freelance+Work;Code.+Design.+Create." />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd Year B.Tech @ **Bhagwan Parshuram Institute of Technology**
-- 💻 Focused on **Frontend Development** + practicing **DSA in C++**
-- 🚀 Currently building real-world projects using React & Tailwind
-- 🌱 Always learning something new – especially Node.js & full-stack dev
-- ✨ Dream: Build beautiful UIs + scalable apps that make a difference
+```txt
+🎓 B.Tech 3rd Year @ Bhagwan Parshuram Institute of Technology  
+💻 Frontend Developer | C++ & DSA Enthusiast  
+🌐 Passionate about modern UI design and scalable frontend architecture  
+🚀 Learning Node.js, MongoDB, and contributing to live projects  
+🎯 Focused on growth, building in public & making an impact
 
----
 
 ## 🧰 Tech Stack
 
