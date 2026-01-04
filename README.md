@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RITESH-CHAUHAN2005&label=Profile%20views&color=0e75b6&style=flat" alt="RITESH-CHAUHAN2005" />
   <img src="https://img.shields.io/github/followers/RITESH-CHAUHAN2005?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/RITESH-CHAUHAN2005?label=Stars&style=social" alt="stars" />
 </p>
 
 ---
@@ -47,16 +48,17 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RITESH-CHAUHAN2005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RITESH-CHAUHAN2005&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RITESH-CHAUHAN2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RITESH-CHAUHAN2005&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITESH-CHAUHAN2005&theme=algolia&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITESH-CHAUHAN2005&layout=compact&langs_count=10&theme=radical&hide_border=true"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RITESH-CHAUHAN2005&bg_color=0d1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&custom_title=Contribution%20Activity"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RITESH-CHAUHAN2005&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RITESH-CHAUHAN2005&theme=radical" />
 </p>
 
 ---
@@ -66,7 +68,8 @@
 #### 💼 Business & E-commerce
 - 🛍️ **[Hygear Fashion](https://hygearfashion.com/)** - Modern E-commerce Store  
 - 🏢 **[Chaotic Jack](https://chaoticjack.in/)** - Digital Marketing Agency Website  
-- 🛍️ **[Dukaan](https://dukaanweb.vercel.app/)** - E-commerce Web UI  
+- 🏭 **[Precision Engineering](https://antiquewhite-ape-970816.hostingersite.com/)** - Industrial Manufacturing Website  
+- 🎨 **[Expeditious Prints](https://expeditiousprints.com/)** - Cards & Canvas E-commerce Platform  
 - 🏘️ **[Hamylten Heights](https://www.hamylten.com/)** - Real Estate Business Platform  
 
 #### 🏢 Corporate Solutions  
@@ -76,20 +79,34 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RITESH-CHAUHAN2005&theme=algolia&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RITESH-CHAUHAN2005&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Detailed Insights
+
+<details>
+<summary><b>🔥 More GitHub Stats</b></summary>
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RITESH-CHAUHAN2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RITESH-CHAUHAN2005&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RITESH-CHAUHAN2005&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RITESH-CHAUHAN2005&theme=radical&utcOffset=5.5" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RITESH-CHAUHAN2005&theme=radical" />
 </p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RITESH-CHAUHAN2005&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RITESH-CHAUHAN2005&theme=radical" />
+</p>
+
+</details>
 
 ---
 
