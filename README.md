@@ -57,10 +57,6 @@
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RITESH-CHAUHAN2005&bg_color=0d1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&custom_title=Contribution%20Activity"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RITESH-CHAUHAN2005&theme=radical" />
-</p>
-
 ---
 
 ### 🚀 Featured Projects
@@ -86,11 +82,11 @@
 
 ---
 
-### 📈 Detailed Insights
+### 📈 Contribution Overview
 
-<details>
-<summary><b>🔥 More GitHub Stats</b></summary>
-<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RITESH-CHAUHAN2005&theme=radical" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RITESH-CHAUHAN2005&theme=react-dark&hide_border=true&area=true" />
@@ -105,8 +101,6 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RITESH-CHAUHAN2005&theme=radical" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RITESH-CHAUHAN2005&theme=radical" />
 </p>
-
-</details>
 
 ---
 
