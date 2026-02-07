@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/ritesh-chauhan-739775324/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://github.com/riteshchauhan" target="_blank">
+  <a href="https://github.com/RITESH-CHAUHAN2005" target="_blank">
     <img src="https://img.shields.io/badge/💻_GitHub-Check_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
 </div>
