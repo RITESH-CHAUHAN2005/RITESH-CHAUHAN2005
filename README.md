@@ -14,8 +14,11 @@
 
 <div align="center">
   <a href="https://portfolio-sucb.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-View_My_Work-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
-  </a>
+  <img
+    src="https://img.shields.io/badge/🌐_Portfolio-View_My_Work-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"
+    alt="Portfolio Badge"
+  />
+</a>
   <a href="mailto:riteschauhan43792@gmail.com">
     <img src="https://img.shields.io/badge/📧_Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
   </a>
